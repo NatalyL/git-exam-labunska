@@ -1,6 +1,5 @@
 ﻿This file shows the changes in the system versions.
 
-
 project-name.com 1.0.0 (25/12/2017)
 ====================================
 
